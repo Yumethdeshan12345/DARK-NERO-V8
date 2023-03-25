@@ -15,7 +15,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'true' // true of false
+global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
@@ -29,7 +29,7 @@ global.location = "USA, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.session = "UGsxNVNDaVI=" //session Id
 global.ownernomer = "94764186258" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94764186258'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HQe3nZZQBsaB2ZRtzOhgAK" //your theme url which will be displayed on whatsapp
